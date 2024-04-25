@@ -24,4 +24,4 @@ A dashboard is a visual display of key metrics, trends, and insights derived fro
 
 Conclusion
 
-Through the process of data cleaning, pivot table analysis, chart creation, and dashboard creation using Excel, valuable insights and actionable recommendations can be derived from the dataset. By leveraging the analytical capabilities of Excel, businesses can make informed decisions and drive performance improvements based on data-driven insights.
+Through the process of data cleaning, pivot table analysis, chart creation, and dashboard creation using Excel, valuable insights and actionable recommendations has been derived from the dataset. By leveraging the analytical capabilities of Excel, businesses have make informed decisions and drive performance improvements based on data-driven insights.
